@@ -1,4 +1,3 @@
-#FROM arm32v6/alpine:3.12.4
 FROM arm32v6/busybox:1.31.1
 LABEL maintainer="nao <naost3rn@gmail.com>"
 
